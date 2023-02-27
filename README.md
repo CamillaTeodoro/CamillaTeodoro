@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CamillaTeodoro
 - 👀 I’m interested in design, web development, music and books 
-- 🌱 I’m currently learning Python
 
 
 
